@@ -62,12 +62,12 @@ span{
     float: left;
 }
 .second-section{
-    background:  url('media file/biography-bg.png');
+    background:  url('biography-bg.png');
     background-repeat: no-repeat;
     height: 600px;
 }
 .third-section{
-    background: url('media file/latest-work-bg.png');
+    background: url('latest-work-bg.png');
 }
 .latest-work img{
     width:352px;
